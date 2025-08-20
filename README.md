@@ -9,13 +9,13 @@ A lightweight and customizable React component that animates text with a scrambl
 Install via npm:
 
 ```bash
-npm install react-text-scrambler
+npm i @skyshots/react-text-scrambler
 ```
 
 Or with yarn:
 
 ```bash
-yarn add react-text-scrambler
+yarn add @skyshots/react-text-scrambler
 ```
 
 ---
@@ -26,7 +26,7 @@ Import and use the `TextScramble` component in your React app:
 
 ```tsx
 import React from 'react';
-import { TextScramble } from 'react-text-scrambler';
+import { TextScramble } from '@skyshots/react-text-scrambler';
 
 const App = () => {
   return (
