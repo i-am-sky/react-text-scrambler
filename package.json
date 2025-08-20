@@ -1,5 +1,5 @@
 {
-  "name": "react-text-scrambler",
+  "name": "@skyshots/react-text-scrambler",
   "version": "1.0.0",
   "description": "A React component and utility for animated text scrambling",
   "main": "dist/index.js",
