@@ -1,6 +1,6 @@
 {
   "name": "@skyshots/react-text-scrambler",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "A React component and utility for animated text scrambling",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
