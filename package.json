@@ -1,0 +1,30 @@
+{
+  "name": "react-text-scrambler",
+  "version": "1.0.0",
+  "description": "A React component and utility for animated text scrambling",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "react",
+    "text",
+    "scramble",
+    "animation",
+    "hook",
+    "utility"
+  ],
+  "author": "Sky",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^17.0.0 || ^18.0.0",
+    "react-dom": "^17.0.0 || ^18.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.3.0",
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "typescript": "^5.0.0"
+  }
+}
